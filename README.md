@@ -93,6 +93,14 @@ This project demonstrates a variety of skills, including but not limited to:
 
 An interactive dashboard is included in this repository to visualize key metrics and trends in real-time:
 
+### Page 1
+![Dashboard 1 Screenshot](Visuals/Dashboard%201.PNG)
+### Page 2
+![Dashboard 2 Screenshot](Visuals/Dashboard%202.PNG)
+### Page 3
+![Dashboard 3 Screenshot](Visuals/Dashboard%203.PNG)
+
+
 - **S&P 500 Performance:** Explore long-term trends and the impact of technological milestones on the index.
 - **FAANG vs S&P 500:** Compare the performance and volatility of FAANG stocks against the broader market.
 - **Nvidia’s Stock Growth:** Analyze Nvidia’s stock performance over time, focusing on AI breakthroughs and their market impact.
@@ -108,6 +116,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 
 ##### Visualization :
 
+![S&P 500 Long Term Trend Screenshot](Visuals/S&P%20500%20Long%20Term%20Trend%20.PNG)
+
 ##### Insights :
 - The S&P 500 has exhibited an overall upward trend over the last 50 years.
 - Sharp declines are visible during major economic downturns, such as the Dot-com Bubble (2000) and the 2008 Financial Crisis, but recovery was steady.
@@ -118,6 +128,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 - What are the yearly returns of the S&P 500 how has it evolved?
 
 ##### Visualization :
+
+![S&P 500 Yearly Returns Screenshot](Visuals/S&P%20500%20Yearly%20Returns%20.PNG)
 
 ##### Insights :
 - **Best Year:** The highest annual return for the S&P 500 was in 1995 with over 30% growth.
@@ -133,6 +145,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 
 ##### Visualization :
 
+![XLK vs S&P Screenshot](Visuals/XLK%20vs%20S&P%20.PNG)
+
 ##### Insights :
 - From 1998 to 2023, the technology sector has been in align with the S&P 500, however, since 2016, when AI started to gain traction it has dramatically outperformed SP500.
 
@@ -142,6 +156,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 - What is the impact of FAANG stocks on the market?
 
 ##### Visualization :
+
+![S&P vs FAANG Screenshot](Visuals/S&P%20vs%20FANNG%20.PNG)
 
 ##### Insights :
 - FAANG stocks have significantly outpaced the S&P 500 in terms of cumulative returns.
@@ -153,6 +169,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 
 ##### Visualizations :
 
+![Volatility Screenshot](Visuals/Volatility%20.PNG)
+
 ##### Insights :
 - Nvidia shows the highest volatility among tech stocks, while the S&P 500 exhibits relatively low volatility. This suggests tech stocks, while high-performing, are riskier.
 
@@ -162,6 +180,8 @@ An interactive dashboard is included in this repository to visualize key metrics
 - How has the AI revolution affected Nvidia’s stock?
 
 ##### Visualization :
+
+![Nvidia on AI Screenshot](Visuals/Nvidia%20on%20AI%20.PNG)
 
 ##### Insights :
 - Nvidia's Volta (2017) and Ampere (2020) architectures, with Tensor Cores, fueled the deep learning boom, positioning the company as the foundation for AI advancements.
