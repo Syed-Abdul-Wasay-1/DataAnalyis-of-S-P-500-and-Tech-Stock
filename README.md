@@ -164,7 +164,7 @@ Nvidia’s Stock Growth: Analyze Nvidia’s stock performance over time, focusin
 ### Visualization :
 
 
-###Insights :
+### Insights :
 • Nvidia's Volta (2017) and Ampere (2020) architectures, with Tensor Cores, fueled the deep learning boom, positioning the company as the foundation for AI advancements.
 
 • The rise of Generative AI (2022), driven by ChatGPT and large language models, further solidified Nvidia's dominance in AI hardware, contributing to significant stock growth.
